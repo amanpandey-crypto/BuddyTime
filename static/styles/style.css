@@ -64,7 +64,7 @@ a {
 
 /*========== components ==========*/
 .container {
-  max-width: 100rem;
+  max-width: 110rem;
   width: 90%;
   margin: auto;
 }
@@ -461,7 +461,7 @@ a {
 }
 
 .layout__body {
-  margin: 3rem;
+  margin: 0.8rem;
 }
 
 @media screen and (max-width: 900px) {
@@ -855,7 +855,7 @@ a {
 =>  Profile
 ================================*/
 .profile {
-  margin-bottom: 3rem;
+  margin-bottom: 0.3rem;
 }
 
 .profile__avatar {
@@ -875,11 +875,11 @@ a {
 .profile__info p {
   color: var(--color-main);
   font-weight: 500;
-  margin-bottom: 1rem;
+  margin-bottom: 0.3rem;
 }
 
 .profile__about {
-  margin-top: 2rem;
+  margin-top: 0.3rem;
 }
 
 .profile__about h3 {
@@ -889,7 +889,7 @@ a {
 }
 
 .profile-page .roomList__header {
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.3rem;
 }
 
 .profile-page .roomList__header h2 {
