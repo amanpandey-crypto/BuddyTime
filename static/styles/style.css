@@ -64,8 +64,8 @@ a {
 
 /*========== components ==========*/
 .container {
-  max-width: 150rem;
-  width: 100%;
+  max-width: 100rem;
+  width: 90%;
   margin: auto;
 }
 
